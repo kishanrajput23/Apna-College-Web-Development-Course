@@ -1,7 +1,5 @@
 # Apna College Web Development Course🔥
 
-# Edited by kishan, Thank you Kishan....
-
 <img src="https://github.com/kishanrajput23/Apna-College-Web-Development-Course/blob/main/Web%20Development%20Course.jpg" alt="">
 
 ## 📌HTML
